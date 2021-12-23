@@ -1,4 +1,4 @@
-# Who-is-in-with-Heroku
+# Who-is-in
 ### Deploying a Flask Machine Learning Application with Heroku
 
 ## Project Overview
